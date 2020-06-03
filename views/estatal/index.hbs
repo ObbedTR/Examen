@@ -1,0 +1,32 @@
+{{> header}}
+    <br><br><br>
+    <div><h1 >Pintoras Y Pintores</h1></div>
+<div>
+      <br><br><br>
+   
+<br><br><br>
+   {{#if artist}}   
+                  {{#each artist}}
+                <div class="card mb-3" style="max-heihgt: 540px;">
+                  <div class="row no-gutters">
+                    <div class="col-md-4">
+                      <img src="{{image}}" class="card-img" alt="...">
+                    </div>
+                    <div class="col-md-8">
+                      <div class="card-body">
+                        <h5 class="card-title">{{artist}}</h5>
+                        <p class="card-text">
+                          {{nacionalidad}} <br>
+                          {{corriente}} <br>
+                          {{who}}</p>
+                        <p class="card-text"><small class="text-muted"><em>"{{speach}}"</em></small></p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                {{/each}}
+   {{else}}
+   <h2>Lo sentimos, no se encuentran pintores</h2>
+   {{/if}}
+    </div>
+{{> footer}}
