@@ -1,0 +1,1 @@
+alert('Buena elección, debes saber que si clickeas sobre el nombre de la (o él) artista te llevará a su página oficial')

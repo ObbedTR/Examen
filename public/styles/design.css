@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Hepta+Slab&display=swap');
+h1{
+   font-family: 'Hepta Slab', serif;
+    font-size: 1000%;
+    color: rgb(87, 85, 85);
+    text-align: center;
+        background-image: url('https://i.pinimg.com/originals/f0/35/43/f03543328fc5e7031d8431bf8392153f.png');    
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 150%;
+    text-align: justify;
+    padding: 3px;
+}
+b{
+    color: rgb(2, 2, 2);
+}
+image{
+    padding: 3px;
+}
+#ligas{
+    font-family: 'Courier New', Courier, monospace;    
+    font-size: 300%;
+    text-align: center;
+}
+a:visited,a:link{
+    color: rgb(75, 74, 74);
+}
+
+h2{
+    font-size: 800%;
+    text-align: center;
+    color: transparent;
+    -webkit-text-stroke: 2px rgb(27, 1, 68);
+}
+table{
+    size: 80%;
+    text-align: center;
+    margin: auto;
+    padding: 5px;
+   
+}
+#Table1,#Table2{
+    width: 80%;
+}
+#koiFrase{
+    margin: auto;
+    padding: 5%;
+    font-size: 20px;
+
+}
+#AMfrase{
+    text-align: center;
+    padding: 5%;
+    font-size: 20px;
+
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 2%;
+}
+th{
+    text-align: center;
+    font-size: 200%;
+    font-family: 'Courier New', Courier, monospace;
+}
+#tittle1{
+    background-image: url('https://c.stocksy.com/a/jxh600/z9/1598963.jpg');    
+    opacity: 0.8;
+}
+#tittle2{
+    background-image: url('https://thumbs.dreamstime.com/z/oro-poligonal-geom%C3%A9trico-y-vector-blanco-del-fondo-86029547.jpg');    
+    opacity: 0.8;
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+#tittle3{
+    background-image: url('https://d2jv9003bew7ag.cloudfront.net/uploads/Elly-Smallwood-Untitled-Photo-copyright-of-the-artist.jpg');    
+    opacity: 0.8;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: rgb(209, 209, 209);
+
+}
+#tittle4{
+    background-image: url('https://mir-s3-cdn-cf.behance.net/projects/404/80e6e440777793.Y3JvcCwyMjc5LDE3ODEsMCwzMzY.jpg');    
+    opacity: 0.8;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: rgb(158, 156, 156);
+
+}
+#tittle5{
+    background-image: url('https://images.saatchiart.com/saatchi/700636/art/2780269/1850162-JUVRCLGN-7.jpg');    
+    opacity: 0.8;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: rgb(158, 156, 156);
+
+}
+marquee{
+    font-size: 200%;    
+    font-family: 'Courier New', Courier, monospace;
+}
+#myBack{
+    background-image: url('https://us.123rf.com/450wm/delikoleg/delikoleg1509/delikoleg150900164/45900360-resumen-de-fondo-muy-borrosa-en-tonos-negros-y-grises-oscuros-calmantes-suaves-obtenido-al-difuminar.jpg?ver=6');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
